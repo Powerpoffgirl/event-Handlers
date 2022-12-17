@@ -1,0 +1,31 @@
+body{
+    background-color:black;
+}
+
+form{
+    background-color:white;
+    color:black;
+    width:40vw;
+    height:40vh;
+    display: flex;
+    flex-direction:column;
+    margin-top:10vh;
+    margin-left:10vh;
+    padding-top:10vh;
+    padding-left:10vh;
+}
+
+input{
+    width: 60vh;
+    height: 3vh;
+    border-radius: 1vh;
+    margin-top:1vh;
+    margin-bottom: 1vh;
+    padding-left:0.5vw;
+}
+
+button{
+    width:20vh;
+    height:4vh;
+    border-radius: 1vh;
+}
